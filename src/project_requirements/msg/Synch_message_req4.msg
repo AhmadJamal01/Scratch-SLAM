@@ -1,0 +1,3 @@
+Header header
+sensor_msgs/LaserScan laser
+geometry_msgs/PoseStamped pose
